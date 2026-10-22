@@ -110,4 +110,6 @@ A hipótese "todo pedido sem `data_entrega` foi cancelado" é **falsa** nesta ba
 Um modelo aprende com os dados que recebe. Categorias escritas de formas diferentes ("Fantasia", " FANTASIA!!! ") seriam tratadas como grupos distintos. Quantidades negativas e preços vazios distorceriam médias e totais, e datas inválidas quebrariam qualquer análise temporal. Por isso a limpeza vem antes da modelagem. Mesmo assim, limpar não basta para evitar **overfitting** (o modelo decora os dados de treino) ou **underfitting** (o modelo é simples demais para captar o padrão). Também importam a representatividade dos dados (esta base cobre só quatro meses por ano), a escolha do modelo e a forma de avaliá-lo com dados que ele não viu. Marcar os problemas em vez de inventar valores mantém a base honesta e deixa a decisão de excluir ou imputar para uma etapa posterior, com justificativa.
 
 ## Autor
-Fernando ([@fep84](https://github.com/fep84))
+Estudante SCTec
+Fernando Eduardo Pollheim
+(https://github.com/fep84))
