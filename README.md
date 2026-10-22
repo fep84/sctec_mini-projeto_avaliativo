@@ -1,3 +1,3 @@
-# sctec_mini-projeto_avaliativo
 Repositório do Mini-Projeto Avaliativo
+
  Categorias vazias ou preenchidas apenas com espaços foram substituídas por “sem categoria”. A quantidade foi considerada válida quando podia ser interpretada como número inteiro maior que zero. O preço unitário foi considerado válido quando estava preenchido, podia ser interpretado como número e era maior ou igual a zero. Registros problemáticos foram marcados, sem inventar ou substituir valores. 
