@@ -111,6 +111,6 @@ Um modelo aprende com os dados que recebe. Categorias escritas de formas diferen
 
 ## Autor
 
-**Estudante SCTec**  
-Fernando Eduardo Pollheim  
+**Estudante SCTec**<br>
+Fernando Eduardo Pollheim<br>
 [GitHub: @fep84](https://github.com/fep84)
